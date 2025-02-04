@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="CoreWCF.ConfigurationManager" Version="1.5.2" />
+		<PackageReference Include="CoreWCF.Http" Version="1.5.2" />
+		<PackageReference Include="CoreWCF.NetTcp" Version="1.5.2" />
+		<PackageReference Include="CoreWCF.Primitives" Version="1.5.2" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="NuGet.Common" Version="6.10.0" />
+		<PackageReference Include="NuGet.Protocol" Version="6.10.0" />
+		<PackageReference Include="NuGet.Versioning" Version="6.10.0"/>
+	</ItemGroup>
+	
+</Project>

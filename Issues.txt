@@ -1,0 +1,5 @@
+﻿1 - Already upgraded can be removed
+2 - Summary Push should happen at the end
+3 - Reduce possible if conditions
+3 - Activity Logger to be placed in Constructor
+4 - Log logic can be simplified

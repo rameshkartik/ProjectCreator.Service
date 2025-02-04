@@ -1,0 +1,52 @@
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.AssemblyReference.cache
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfoInputs.cache
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfo.cs
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.CoreCompileInputs.cache
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\CoreWCF.machine.config
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.deps.json
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.pdb
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\refint\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.pdb
+C:\Users\agarwag\Desktop\new version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ref\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\CoreWCF.machine.config
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.deps.json
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.pdb
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.AssemblyReference.cache
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfoInputs.cache
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfo.cs
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.CoreCompileInputs.cache
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\refint\ProjectCreator.Service.dll
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.pdb
+C:\Users\agarwag\Desktop\new_version\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ref\ProjectCreator.Service.dll
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\CoreWCF.machine.config
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.deps.json
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.dll
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.pdb
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.AssemblyReference.cache
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfoInputs.cache
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfo.cs
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.CoreCompileInputs.cache
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.dll
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\refint\ProjectCreator.Service.dll
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.pdb
+C:\SourceCode\Automation\Gau Version\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ref\ProjectCreator.Service.dll
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\CoreWCF.machine.config
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.deps.json
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.dll
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\bin\Debug\net7.0\ProjectCreator.Service.pdb
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.AssemblyReference.cache
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfoInputs.cache
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.AssemblyInfo.cs
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.csproj.CoreCompileInputs.cache
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.dll
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\refint\ProjectCreator.Service.dll
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ProjectCreator.Service.pdb
+C:\SourceCode\Automation\GauVersion\Version1\Version1\ProjectCreator\ProjectCreator.Service\obj\Debug\net7.0\ref\ProjectCreator.Service.dll

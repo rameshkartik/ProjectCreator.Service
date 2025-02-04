@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SourceCode\\Automation\\GauVersion\\Version1\\Version1\\ProjectCreator\\ProjectCreator.Service\\ProjectCreator.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\SourceCode\\Automation\\GauVersion\\Version1\\Version1\\ProjectCreator\\ProjectCreator.Service\\ProjectCreator.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SourceCode\\Automation\\GauVersion\\Version1\\Version1\\ProjectCreator\\ProjectCreator.Service\\ProjectCreator.Service.csproj",
+        "projectName": "ProjectCreator.Service",
+        "projectPath": "C:\\SourceCode\\Automation\\GauVersion\\Version1\\Version1\\ProjectCreator\\ProjectCreator.Service\\ProjectCreator.Service.csproj",
+        "packagesPath": "C:\\Users\\RSR\\.nuget\\packages\\",
+        "outputPath": "C:\\SourceCode\\Automation\\GauVersion\\Version1\\Version1\\ProjectCreator\\ProjectCreator.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RSR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CoreWCF.ConfigurationManager": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "CoreWCF.Http": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "CoreWCF.NetTcp": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "CoreWCF.Primitives": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "NuGet.Common": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "NuGet.Protocol": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "NuGet.Versioning": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
