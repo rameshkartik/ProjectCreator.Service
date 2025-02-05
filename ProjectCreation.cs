@@ -188,7 +188,7 @@ namespace ProjectCreator.Service
             CancellationToken cancellationToken = CancellationToken.None;
             SourceCacheContext cache = new SourceCacheContext();
             //SourceRepository repository = Repository.Factory.GetCoreV3("https://api.nuget.org/v3/index.json");
-            SourceRepository repository = Repository.Factory.GetCoreV3("https://usnugetproxy.am.bm.net/v3/index.json");
+            
             List<NuGetVersion> compatibleVersions = new List<NuGetVersion>();
 
             //FindPackageByIdResource resource = await repository.GetResourceAsync<FindPackageByIdResource>();
